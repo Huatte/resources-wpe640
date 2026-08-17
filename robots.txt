@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Huatte.github.io/resources-wpe640/sitemap.xml
